@@ -13,4 +13,6 @@ int f(int n) {
 
 int main() {
     cout<<f(4);
+    return 0;
+    
 }
